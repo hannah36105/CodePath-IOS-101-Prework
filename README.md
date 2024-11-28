@@ -2,7 +2,7 @@
 
 Submitted by: **Minyoung Lee**
 
-Password Manager is an app that... [allows users to securely store their existing passwords, generates strong passwords when requested, and offers multiple options to help users remember their password for easier access to their accounts.] 
+Password Manager is an app that allows users to securely store their existing passwords, generates strong passwords when requested, and offers multiple options to help users remember their password for easier access to their accounts.
 
 Time spent: **10 hours spent in total**
 
